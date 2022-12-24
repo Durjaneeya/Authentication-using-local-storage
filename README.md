@@ -1,6 +1,6 @@
 # Authentication-using-local-storage
 
-##Project Overview
+#Project Overview
 1. Handle authentication using local storage.
 
 2. Create a UI as shown in Figma, and make 2 pages - A Signup page and a Profile page.
@@ -19,4 +19,4 @@
 
 9. The project is deployed 
 
-##Figma Link:- https://www.figma.com/file/GWUrnugwWlzzxjMJewgoR8/Contest?node-id=0%3A1&t=9DWJ1y9QOUIhl2OD-1
+#Figma Link:- https://www.figma.com/file/GWUrnugwWlzzxjMJewgoR8/Contest?node-id=0%3A1&t=9DWJ1y9QOUIhl2OD-1
